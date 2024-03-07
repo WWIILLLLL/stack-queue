@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack Qiwi", "Stack Qiwi\Stack Qiwi.vcxproj", "{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Debug|x64.ActiveCfg = Debug|x64
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Debug|x64.Build.0 = Debug|x64
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Debug|x86.Build.0 = Debug|Win32
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Release|x64.ActiveCfg = Release|x64
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Release|x64.Build.0 = Release|x64
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Release|x86.ActiveCfg = Release|Win32
+		{B6C3E1F9-7C07-44B2-9A1F-EF49D16E8A93}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF9E969-D0BE-40A9-8B2B-8CECB89C8606}
+	EndGlobalSection
+EndGlobal
